@@ -62,6 +62,7 @@ Signed,
 - Ariadne Conill (Alpine Developer, pkgconf)
 - Ariela Wenner
 - Arne Brasseur
+- Ash 2X3ZB9CY
 - Avery "stars" M-W
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
